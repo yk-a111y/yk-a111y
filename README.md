@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Kai
+
+![](https://github.com/yk-a111y/yk-a111y/blob/output/github-contribution-grid-snake.svg?short_path=9d09e8a)
 
 <!--
 **yk-a111y/yk-a111y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
